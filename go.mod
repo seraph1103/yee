@@ -1,4 +1,4 @@
-module github.com/cookieY/yee
+module github.com/seraph/yee
 
 go 1.16
 
